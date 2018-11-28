@@ -1,0 +1,14 @@
+{
+  "name": "my_sql_project",
+  "version": "1.0.0",
+  "description": "Project nodejs, npm and mysql ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicholas Liyanage",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.16.0"
+  }
+}

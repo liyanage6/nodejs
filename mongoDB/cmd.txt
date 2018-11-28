@@ -1,0 +1,10 @@
+mongod --dbpath data
+show dbs
+
+use test
+
+db.emp.find({})
+
+db.emp.find({_id : "xx"})
+
+db.emp.find({"name" : "xx"})
